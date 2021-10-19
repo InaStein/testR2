@@ -1,0 +1,7 @@
+jupyter contrib nbextension install
+juyter nbextension enable collapsible_headings
+jupyter nbextension enable rubberband
+jupyter nbextension enable exercise
+jupyter nbextension enable exercise2
+jupyter nbextension enable datestamper
+jupyter nbextension enable freeze 
