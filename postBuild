@@ -12,7 +12,8 @@ jupyter nbextension enable keyboard_shortcut_editor/main --user
 jupyter nbextension enable spellchecker/main --user
 jupyter nbextension enable higlight_selected_word/main --user
 jupyter nbextension enable toggle_all_line_numbers/main --user
-jupyter nbextension enable toc2 --user
+jupyter nbextension enable toc2/main --user
 jupyter nbextension enable contrib_nbextensions_help_item/main --user
 jupyter nbextension enable nbextensions_configurator/config_menu/main --user
 jupyter nbextension enable nbextensions_configurator/tree_tab/main --user
+jupyter nbextension enable highlight_selected_word/main --user
