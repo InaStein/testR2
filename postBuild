@@ -1,5 +1,5 @@
 jupyter contrib nbextension install --user
-jupyter nbextension enable collapsible_headings
+jupyter nbextension enable collapsible_headings/main
 jupyter nbextension enable rubberband
 jupyter nbextension enable exercise
 jupyter nbextension enable exercise2
