@@ -7,9 +7,12 @@ jupyter nbextension enable datestamper/main --user
 jupyter nbextension enable help_panel --user 
 jupyter nbextension enable freeze/main --user
 jupyter nbextension enable hide_input_all/main --user
-jupyter nbextension enable hinterland --user 
+jupyter nbextension enable hinterland/hinterland --user 
 jupyter nbextension enable keyboard_shortcut_editor/main --user
 jupyter nbextension enable spellchecker/main --user
 jupyter nbextension enable higlight_selected_word/main --user
 jupyter nbextension enable toggle_all_line_numbers/main --user
 jupyter nbextension enable toc2 --user
+jupyter nbextension enable contrib_nbextensions_help_item/main --user
+jupyter nbextension enable nbextensions_configurator/config_menu/main --user
+jupyter nbextension enable nbextensions_configurator/tree_tab/main --user
