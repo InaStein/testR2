@@ -12,4 +12,4 @@ jupyter nbextension enable keyboard_shortcut_editor/main --user
 jupyter nbextension enable spellchecker/main --user
 jupyter nbextension enable higlight_selected_word/main --user
 jupyter nbextension enable toggle_all_line_numbers/main --user
-jupyter nbextension enable table_of_contents --user
+jupyter nbextension enable toc2 --user
