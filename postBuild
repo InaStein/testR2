@@ -3,5 +3,13 @@ jupyter nbextension enable collapsible_headings/main --user
 jupyter nbextension enable rubberband/main --user
 jupyter nbextension enable exercise/main --user
 jupyter nbextension enable exercise2/main --user
-jupyter nbextension enable datestamper
-jupyter nbextension enable freeze 
+jupyter nbextension enable datestamper --user
+jupyter nbextension enable help_panel --user 
+jupyter nbextension enable freeze --user
+jupyter nbextension enable hide_input_all --user
+jupyter nbextension enable hinterland 
+jupyter nbextension enable keyboard_shortcut_editor --user
+jupyter nbextension enable spellchecker --user
+jupyter nbextension enable higlight_selected_word --user
+jupyter nbextension enable toggle_all_line_numbers --user
+jupyter nbextension enable table_of_contents --user
